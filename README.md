@@ -16,7 +16,7 @@ Cột "attachment_path" là đường dẫn tuyệt đối đến file đó. <br
  Chú ý: sử dụng tên cột không có dấu, không cách 
 
 # 3.Chuẩn bị template mail
-Ở bước này, tạo 1 file template.txt để chứ mẫu email chung. Nhằm mục đích mail có nhiều định dạng khác nhau, nội dung mail phải được viết bằng HTML. Nếu bạn không biết HTML thì cũng đừng lo lắng, truy cập vào đường link sau https://wordhtml.com/ để tiến hành. <br> <br> 
+Ở bước này, tạo 1 file template.txt để chứa mẫu email chung. Nhằm mục đích mail có nhiều định dạng khác nhau, nội dung mail phải được viết bằng HTML. Nếu bạn không biết HTML thì cũng đừng lo lắng, truy cập vào đường link sau https://wordhtml.com/ để tiến hành. <br> <br> 
 
 ![image](https://user-images.githubusercontent.com/76168991/138078071-2e9321cd-b992-4a64-9aa3-c3ebb06dab4c.png)
 Ở đây biên soạn nội dung mail của bạn, những chỗ {} là nơi cần thêm giá trị từ các cột trong excel của mình 
