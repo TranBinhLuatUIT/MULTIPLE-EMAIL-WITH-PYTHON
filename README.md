@@ -37,3 +37,5 @@ TO_COL : tên của cột chứa địa chỉ mail trong file excel <br>
 ATTACHMENT_PATH_COL: tên của cột chứa đường dẫn tệp đính kèm trong file excel. Nếu không cần gửi đường dẫn thì cứ để None<br>
 ATTACHMENT_NAME_COL: tên của cột chứa tên tệp đính kèm muốn gửi <br>
 ![image](https://user-images.githubusercontent.com/76168991/138080158-c95ad809-212d-4069-acc5-af61ba82023c.png) <br>
+
+Lúc này chỉ cần bấm run, nhập email và mật khẩu. Để đề phòng trường hợp quên gửi tệp đính kèm, chương trình sẽ xác nhận lại. Nếu quên thì bấm NO, chương trình sẽ dừng và bạn kiểm tra lại đã làm sai ở bước nào. <br>
