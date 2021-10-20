@@ -27,3 +27,12 @@ Bây giờ chỉ cần bấm qua tab HTML, copy html ở đó và patse vào fil
 ![image](https://user-images.githubusercontent.com/76168991/138078723-4ef182d2-dd19-4c9c-82f1-b6beb5f87c39.png)
 ![image](https://user-images.githubusercontent.com/76168991/138078752-c4628342-5ad6-4bd7-b2a4-e103a60eba62.png)
 
+# 4.Chỉnh tham số
+Làm việc ở file main.py, một số biến cần lưu ý như: <br>
+file_excel_path: đường dẫn đến file excel <br>
+FROM: Tên của người gửi <br>
+SUBJECT: Tiêu đề mail <br>
+CONTENT_COL: list tên cột để điền vào những chỗ trống {} trong template <br>
+TO_COL : tên của cột chứa địa chỉ mail trong file excel <br>
+ATTACHMENT_PATH_COL: tên của cột chứa đường dẫn tệp đính kèm trong file excel. Nếu không cần gửi đường dẫn thì cứ để None<br>
+ATTACHMENT_NAME_COL: tên của cột chứa tên tệp đính kèm muốn gửi <br>
