@@ -21,4 +21,9 @@ Cột "attachment_path" là đường dẫn tuyệt đối đến file đó. <br
 ![image](https://user-images.githubusercontent.com/76168991/138078071-2e9321cd-b992-4a64-9aa3-c3ebb06dab4c.png)
 Ở đây biên soạn nội dung mail của bạn, những chỗ {} là nơi cần thêm giá trị từ các cột trong excel của mình 
 ![image](https://user-images.githubusercontent.com/76168991/138078497-d6ec4200-64ff-4f37-a359-7b3e29fe51cf.png) <br>
-Ở file main.py dòng thứ 15, bỏ tên của các cột vào. Ghi như vậy tức nghĩa là giá trị của cột "mr" sẽ vào {} thứ 1, "name" sẽ vào {} thứ 2
+Ở file main.py dòng thứ 15, bỏ tên của các cột vào. Ghi như vậy tức nghĩa là giá trị của cột "mr" sẽ vào {} thứ 1, "name" sẽ vào {} thứ 2 <br>
+
+Bây giờ chỉ cần bấm qua tab HTML, copy html ở đó và patse vào file template.txt
+![image](https://user-images.githubusercontent.com/76168991/138078723-4ef182d2-dd19-4c9c-82f1-b6beb5f87c39.png)
+![image](https://user-images.githubusercontent.com/76168991/138078752-c4628342-5ad6-4bd7-b2a4-e103a60eba62.png)
+
