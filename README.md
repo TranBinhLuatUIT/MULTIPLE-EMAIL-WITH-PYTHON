@@ -25,7 +25,7 @@ Cột "attachment_path" là đường dẫn tuyệt đối đến file đó. <br
 
 Bây giờ chỉ cần bấm qua tab HTML, copy html ở đó và patse vào file template.txt
 ![image](https://user-images.githubusercontent.com/76168991/138078723-4ef182d2-dd19-4c9c-82f1-b6beb5f87c39.png)
-![image](https://user-images.githubusercontent.com/76168991/138078752-c4628342-5ad6-4bd7-b2a4-e103a60eba62.png)
+![image](https://user-images.githubusercontent.com/76168991/138079730-af1098b4-d4b0-47bd-8956-f8fb3441a5ed.png)
 
 # 4.Chỉnh tham số
 Làm việc ở file main.py, một số biến cần lưu ý như: <br>
