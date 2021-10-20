@@ -1,6 +1,7 @@
-<h2><strong>Xin ch&agrave;o </strong>{} {} !</h2>
-<h3>T&ocirc;i l&agrave; Trần B&igrave;nh Luật n&egrave;!!</h3>
-<p><span style="color: #000000;">T&ocirc;i gửi chiếc email n&agrave;y để test t&ugrave;m lum</span></p>
-<p><span style="color: #000000;">Ch&uacute;cc mọi người một ng&agrave;y vuiii!!!</span></p>
-<h1><span style="color: #ff0000;">Ch&uacute;c mấy bạn nữ một ng&agrave;yyyy 20/10 vuii lu&ocirc;ng!</span></h1>
-<p>B&aacute;i baii &lt;3</p>
+<h2>&nbsp;</h2>
+<p><span style="color: #000000;">Xin ch&agrave;o {} {}!</span></p>
+<p><span style="color: #000000;">Email n&agrave;y để nhắc nhở <strong>việc:</strong></span></p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Cuộc hẹn l&uacute;c:&nbsp;</strong><span style="color: #ff0000;">11h30 ng&agrave;y 1.1.2022,<span style="text-decoration: underline;"> <span style="color: #000000; text-decoration: underline;"><strong>tại ABC XYZ</strong></span></span></span></span></p>
+<p>&nbsp;</p>
+<p>Rất mong được gặp,</p>
+<p>Tr&acirc;n trọng.&nbsp;</p>

@@ -2,20 +2,20 @@ from mail import *
 import pandas as pd
 
 #your excel path here
-file_excel_path = "DSach.xlsx"
+file_excel_path = "List.xlsx"
 
 SHEET = pd.read_excel(file_excel_path)
-FROM = "TBL"      
-SUBJECT = "TEST MAI"    
+FROM = "Trần Bình Luật"      
+SUBJECT = "TEST MAIL"    
 
 with open('template.txt', encoding='utf-8') as f:
     BODY = f.read()
 
 
-CONTENT_COL = ['gen', 'name']  #put value of columns in {} of BODY 
+CONTENT_COL = ['mr', 'name']  #put value of columns in {} of BODY 
 TO_COL = 'mail'  #Name of mail column in your sheet
-ATTACHMENT_PATH_COL = None #attachments path column 
-ATTACHMENT_NAME_COL = None #attachments name column 
+ATTACHMENT_PATH_COL = 'attachment_path' #attachments path column 
+ATTACHMENT_NAME_COL = 'attachment_name' #attachments name column 
 
 
 if(valid_col(SHEET ,TO_COL, CONTENT_COL) == True):
