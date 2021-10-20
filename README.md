@@ -43,5 +43,6 @@ Lúc này chỉ cần bấm run, nhập email và mật khẩu. Để đề phò
 # 5. Kết quả
 ![image](https://user-images.githubusercontent.com/76168991/138081112-ab56e7b1-4488-41a1-95af-5d321a69026e.png)
 ![image](https://user-images.githubusercontent.com/76168991/138081146-4ab7142d-9d7f-4495-88c6-69f2ee0a3273.png)
-![image](https://user-images.githubusercontent.com/76168991/138081189-489030e0-6727-4de6-8375-b7cfc441973b.png)
+![image](https://user-images.githubusercontent.com/76168991/138081359-d9981deb-4596-4dd3-ba8d-2576ba26088f.png)
 
+Nhớ test trước để tránh sai sót nhé!!
