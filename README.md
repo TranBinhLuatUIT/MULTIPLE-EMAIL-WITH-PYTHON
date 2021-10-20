@@ -9,8 +9,8 @@ Vô gmail -> Quản lý tài khoản google -> Bảo mật -> Bật quyền truy
 ![image](https://user-images.githubusercontent.com/76168991/138076245-a42fbcc5-a43a-4eb5-aac6-eb2bded6bac1.png)
 
 Ở đây ví dụ tôi muốn gửi mail đến 2 người. Thay đổi cách xưng là Mr. Luật và Mrs. Trần.
-Cần một cột "mail" để lưu mail của 2 người đó
-Cột "attachment_name" là tên của tệp đính kèm mà người đó sẽ nhận
-Cột "attachment_path" là đường dẫn tuyệt đối đến file đó.
+Cần một cột "mail" để lưu mail của 2 người đó <br>
+Cột "attachment_name" là tên của tệp đính kèm mà người đó sẽ nhận <br>
+Cột "attachment_path" là đường dẫn tuyệt đối đến file đó. <br>
 
  
