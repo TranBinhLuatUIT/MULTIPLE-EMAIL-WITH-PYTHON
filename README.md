@@ -36,4 +36,4 @@ CONTENT_COL: list tên cột để điền vào những chỗ trống {} trong t
 TO_COL : tên của cột chứa địa chỉ mail trong file excel <br>
 ATTACHMENT_PATH_COL: tên của cột chứa đường dẫn tệp đính kèm trong file excel. Nếu không cần gửi đường dẫn thì cứ để None<br>
 ATTACHMENT_NAME_COL: tên của cột chứa tên tệp đính kèm muốn gửi <br>
-![image](https://user-images.githubusercontent.com/76168991/138079971-009f25a1-f059-4b0f-9e46-58d82f4b4f1e.png)
+![image](https://user-images.githubusercontent.com/76168991/138080086-475c0d9d-7ea8-4a57-89c7-6757334e031b.png)<br>
