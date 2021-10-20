@@ -39,3 +39,9 @@ ATTACHMENT_NAME_COL: tên của cột chứa tên tệp đính kèm muốn gửi
 ![image](https://user-images.githubusercontent.com/76168991/138080158-c95ad809-212d-4069-acc5-af61ba82023c.png) <br>
 
 Lúc này chỉ cần bấm run, nhập email và mật khẩu. Để đề phòng trường hợp quên gửi tệp đính kèm, chương trình sẽ xác nhận lại. Nếu quên thì bấm NO, chương trình sẽ dừng và bạn kiểm tra lại đã làm sai ở bước nào. <br>
+
+# 5. Kết quả
+![image](https://user-images.githubusercontent.com/76168991/138081112-ab56e7b1-4488-41a1-95af-5d321a69026e.png)
+![image](https://user-images.githubusercontent.com/76168991/138081146-4ab7142d-9d7f-4495-88c6-69f2ee0a3273.png)
+![image](https://user-images.githubusercontent.com/76168991/138081189-489030e0-6727-4de6-8375-b7cfc441973b.png)
+
