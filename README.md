@@ -14,3 +14,6 @@ Cột "attachment_name" là tên của tệp đính kèm mà người đó sẽ 
 Cột "attachment_path" là đường dẫn tuyệt đối đến file đó. <br>
 
  Chú ý: sử dụng tên cột không có dấu, không cách 
+
+# 3.Chuẩn bị template mail
+Ở bước này, tạo 1 file template.txt để chứ mẫu email chung. Nhằm mục đích mail có nhiều định dạng khác nhau, nội dung mail phải được viết bằng HTML. Nếu bạn không biết HTML thì cũng đừng lo lắng, truy cập vào đường link sau https://wordhtml.com/ để tiến hành. 
