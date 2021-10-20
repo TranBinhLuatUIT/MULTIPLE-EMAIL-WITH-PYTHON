@@ -13,4 +13,4 @@ Cần một cột "mail" để lưu mail của 2 người đó <br>
 Cột "attachment_name" là tên của tệp đính kèm mà người đó sẽ nhận <br>
 Cột "attachment_path" là đường dẫn tuyệt đối đến file đó. <br>
 
- 
+ Chú ý: sử dụng tên cột không có dấu, không cách 
